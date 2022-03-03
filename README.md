@@ -1,6 +1,9 @@
 # DDD Familiarity Assessment
 
 
+## Contributors
+
+Thanks to all [existing and future contributors](https://github.com/ddd-crew/ddd-familiarity-assessment/graphs/contributors) who have contributed to the DDD Familiarity Assessment.
 
 ## Contributions, Questions and Feedback
 
