@@ -1,15 +1,24 @@
 # DDD Familiarity Assessment
 
+The DDD Familiarity Assessment goal is to provide you with a set of questions to assess the DDD knowledge within your organization.
+
+:warning: DDD Familiarity Assessment __does not__ intend to be a Maturity Model, and it should not be used as such.
+
+Instead, we expect to help organizations identify DDD knowledge gaps and use the results to prepare learnings, training, or similar to fill those gaps.
+
+## Familiarity Assessment Survey
+
+TODO
 
 ## Contributors
 
 Thanks to all [existing and future contributors](https://github.com/ddd-crew/ddd-familiarity-assessment/graphs/contributors) who have contributed to the DDD Familiarity Assessment.
 
-## Contributions, Questions and Feedback
+## Contributions, Questions, and Feedback
 
 The DDD Familiarity Assessment is freely available for you to use. In addition, your feedback and ideas are welcome to improve it or to create new versions.
 
-If you have questions you can ping us or open an [Issue](https://github.com/ddd-crew/ddd-familiarity-assessment/issues/new/choose).
+If you have a question you can ping us or open an [Issue](https://github.com/ddd-crew/ddd-familiarity-assessment/issues/new/choose).
 
 Feel free to also send us a pull request with your examples.
 
