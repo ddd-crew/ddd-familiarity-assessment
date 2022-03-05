@@ -10,43 +10,168 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 TODO
 
-How do you assess yourself on DDD? (choose one)
+- How do you assess yourself on DDD? (choose one)
+  - ( ) Never used
+  - ( ) I'm familiar with the concepts
+  - ( ) I'm familiar
+  - ( ) Practitioner
+  - ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
 
-- ( ) Never used
-- ( ) I'm familiar with the concepts
-- ( ) I'm familiar
-- ( ) Practitioner
-- ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
+- How do you assess yourself on Strategic Design of DDD? (choose one)
+  - ( ) Never used
+  - ( ) I'm familiar with the concepts
+  - ( ) I'm familiar
+  - ( ) Practitioner
+  - ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
 
-How do you assess yourself on Strategic Design of DDD? (choose one)
+- How do you assess yourself on Tactical Design of DDD? (choose one)
+  - ( ) Never used
+  - ( ) I'm familiar with the concepts
+  - ( ) I'm familiar
+  - ( ) Practitioner
+  - ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
 
-- ( ) Never used
-- ( ) I'm familiar with the concepts
-- ( ) I'm familiar
-- ( ) Practitioner
-- ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
+- Which sources have you used to learn about Domain-Driven Design? (Multiple choices)
+  - [ ] Book: Domain-Driven Design by Erik Evans
+  - [ ] Book: Implementing Domain-Driven Design by Vaughn Vernon
+  - [ ] Book: Domain-Driven Design Distilled by Vaughn Vernon
+  - [ ] Book: Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy by Vladik Khononov
+  - [ ] Book: Patterns, Principles, and Practices of Domain-Driven Design by Scott Millett
+  - [ ] Book: Strategic Monoliths and Microservices by Vaughn Vernon
+  - [ ] Conferences
+  - [ ] Blogs and Online Resources
+  - [ ] Workshops and Trainings
+  - [ ] Others... (open text)
 
-How do you assess yourself on Tactical Design of DDD? (choose one)
+### General DDD Concepts
 
-- ( ) Never used
-- ( ) I'm familiar with the concepts
-- ( ) I'm familiar
-- ( ) Practitioner
-- ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
+- Which is the most important thing about DDD? It's too open in purpose, there's no right and wrong answer. (Open Text)
 
-Which sources have you used to learn about Domain-Driven Design? (Multiple choices)
+- What's a Domain Model? (Open Text)
 
-- [ ] Book: Domain-Driven Design by Erik Evans
-- [ ] Book: Implementing Domain-Driven Design by Vaughn Vernon
-- [ ] Book: Domain-Driven Design Distilled by Vaughn Vernon
-- [ ] Book: Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy by Vladik Khononov
-- [ ] Book: Patterns, Principles, and Practices of Domain-Driven Design by Scott Millett
-- [ ] Book: Strategic Monoliths and Microservices by Vaughn Vernon
-- [ ] Conferences
-- [ ] Blogs and Online Resources
-- [ ] Workshops and Trainings
-- [ ] Others... (open question)
+- What's Domain Modelling? (Open Text)
 
+- In which scenario you would use DDD? (Open Text)
+
+- In which scenario you would NOT use DDD? (Open Text)
+
+- When do you know what you're doing DDD wrong? (Open Text)
+
+- DDD helps you in (Multiple choices)
+  - [ ] Manage Business Complexity
+  - [ ] Mange Technical Complexity
+  - [ ] Define good Microservices
+  - [ ] Have good Architecture because of Tactical Patterns
+  - [ ] Other... (Open text)
+
+- What's a Big Ball of Mud? (Open text)
+
+### Strategic Design
+
+- Which Strategic Patterns are you familiar with? (Multiple choices)
+  - [ ] Bounded Contexts
+  - [ ] Ubiquitous Language
+  - [ ] Core Domain and Sub Domains
+  - [ ] Context Mapping
+  - [ ] Other... (Open text)
+
+- Which of those Patterns are used for the Problem Space? (Multiple choices)
+  - [ ] Bounded Contexts
+  - [ ] Ubiquitous Language
+  - [ ] Core Domain and Sub Domains
+  - [ ] Context Mapping
+  - [ ] Microservices
+  - [ ] Other... (Open text)
+
+- Which of those Patterns are used for the Solution Space? (Multiple choices)
+  - [ ] Bounded Contexts
+  - [ ] Ubiquitous Language
+  - [ ] Core Domain and Sub Domains
+  - [ ] Context Mapping
+  - [ ] Microservices
+  - [ ] Other... (Open text)
+
+- How do you identify a Bounded Context? (Open text)
+
+- How do you know what's Core Domain? (Open text)
+
+- How do you know what's Supportive Subdomain? (Open text)
+
+- How do you know what's Generic Subdomain? (Open text)
+
+- How do you differentiate between them? (Open text)
+
+- What's Context Mapping used for? (Open text)
+
+- Which kind of Context Mappings do you know? (Open text)
+
+### Domain Modelling with Event Storming
+
+- Are you familiar with Event Storming? (Choose one)
+  - ( ) No 
+  - ( ) I read about it
+  - ( ) I participated in few (< 10)
+  - ( ) I participated in several sessions ( >= 10)
+  - ( ) I facilitated several sessions ( assume here you also participated in several )
+
+- What's needed to run an Event Storming? (Open text)
+
+- What's the main goal of an Event Storming? (Open text)
+
+- How does Event Storming relate with Strategic Design and Tactical Design? (Open text)
+
+### Tactical Design
+
+- Why Hexagonal Architecture is so popular within DDD? (Open text)
+
+- Which patterns did you use? (Multiple choices)
+  - [ ] Domain Service
+  - [ ] Domain Event
+  - [ ] Aggregate
+  - [ ] Repository
+  - [ ] Entity
+  - [ ] Value Object
+  - [ ] CQRS
+  - [ ] Event Sourcing
+  - [ ] Other... (Open text)
+
+- What is a Domain Service? (Open text)
+
+- What is a Domain Event? (Open text)
+
+- What is an Aggregate? (Open text)
+
+- What is a Repository? (Open text)
+
+- What is an Entity? (Open text)
+
+- What is a Value Object? (Open text)
+
+- What is CQRS? (Open text)
+
+- What is Event Sourcing? (Open text)
+
+### Digging into Tactical Patterns
+
+- Why Why Repository over Active Record Pattern? (Open text)
+
+- Which is the difference between Entity and Value Object? (Open text)
+
+- Which is the difference between Aggregate and Entity? (Open text)
+
+- When would you use an Aggregate? (Open text)
+
+- How Aggregate relates to 2 Phase-Commit? (Open text)
+
+### Your experience with DDD
+
+- Where did you find people struggle the most with DDD? (Open text)
+
+- Which is your biggest challenge when doing DDD? (Open text)
+
+- What's the thing that you found that people is mistaken about DDD? (Open text)
+
+- How would you address a Big Ball of Mud? (Open text)
 
 ## Contributors
 
