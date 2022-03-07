@@ -8,8 +8,6 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 ## Familiarity Assessment Survey
 
-TODO
-
 - How do you assess yourself on DDD? (choose one)
   - ( ) Never used
   - ( ) I'm familiar with the concepts
@@ -45,13 +43,13 @@ TODO
 
 ### General DDD Concepts
 
-- Which is the most important thing about DDD? It's too open in purpose, there's no right and wrong answer. (Open Text)
+- Which is the most important thing about DDD in your opinion?
 
-- What's a Domain Model? (Open Text)
+- What is a Domain Model? (Open Text)
 
-- What's Domain Modelling? (Open Text)
+- What is Domain Modelling? (Open Text)
 
-- In which scenario you would use DDD? (Open Text)
+- In which scenario would you use DDD? (Open Text)
 
 - In which scenario you would NOT use DDD? (Open Text)
 
@@ -135,41 +133,28 @@ TODO
   - [ ] Event Sourcing
   - [ ] Other... (Open text)
 
-- What is a Domain Service? (Open text)
+- When have you used a Domain Service?? (Open text)
 
-- What is a Domain Event? (Open text)
+- When have you used a Domain Event? (Open text)
 
-- What is an Aggregate? (Open text)
+- When have you used an Aggregate? (Open text)
 
-- What is a Repository? (Open text)
+- When have you used a Repository? (Open text)
 
-- What is an Entity? (Open text)
+- When have you used an Entity? (Open text)
 
-- What is a Value Object? (Open text)
+- When have you used a Value Object? (Open text)
 
-- What is CQRS? (Open text)
+- When have you used CQRS? (Open text)
 
-- What is Event Sourcing? (Open text)
-
-### Digging into Tactical Patterns
-
-- Why Why Repository over Active Record Pattern? (Open text)
-
-- Which is the difference between Entity and Value Object? (Open text)
-
-- Which is the difference between Aggregate and Entity? (Open text)
-
-- When would you use an Aggregate? (Open text)
-
-- How Aggregate relates to 2 Phase-Commit? (Open text)
-
+- When have you used Event Sourcing? (Open text)
 ### Your experience with DDD
 
 - Where did you find people struggle the most with DDD? (Open text)
 
 - Which is your biggest challenge when doing DDD? (Open text)
 
-- What's the thing that you found that people is mistaken about DDD? (Open text)
+- What is the thing that you found that people is mistaken about DDD? (Open text)
 
 - How would you address a Big Ball of Mud? (Open text)
 
