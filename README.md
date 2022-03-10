@@ -57,7 +57,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 - DDD helps you in (Multiple choices)
   - [ ] Manage Business Complexity
-  - [ ] Mange Technical Complexity
+  - [ ] Manage Technical Complexity
   - [ ] Define good Microservices
   - [ ] Have good Architecture because of Tactical Patterns
   - [ ] Other... (Open text)
@@ -69,14 +69,14 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 - Which Strategic Patterns are you familiar with? (Multiple choices)
   - [ ] Bounded Contexts
   - [ ] Ubiquitous Language
-  - [ ] Core Domain and Sub Domains
+  - [ ] Core Domain and Subdomains
   - [ ] Context Mapping
   - [ ] Other... (Open text)
 
 - Which of those Patterns are used for the Problem Space? (Multiple choices)
   - [ ] Bounded Contexts
   - [ ] Ubiquitous Language
-  - [ ] Core Domain and Sub Domains
+  - [ ] Core Domain and Subdomains
   - [ ] Context Mapping
   - [ ] Microservices
   - [ ] Other... (Open text)
@@ -84,7 +84,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 - Which of those Patterns are used for the Solution Space? (Multiple choices)
   - [ ] Bounded Contexts
   - [ ] Ubiquitous Language
-  - [ ] Core Domain and Sub Domains
+  - [ ] Core Domain and Subdomains
   - [ ] Context Mapping
   - [ ] Microservices
   - [ ] Other... (Open text)
