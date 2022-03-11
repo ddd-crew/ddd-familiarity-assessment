@@ -6,26 +6,27 @@ The DDD Familiarity Assessment goal is to provide you with a set of questions to
 
 Instead, we expect to help organizations identify DDD knowledge gaps and use the results to prepare learnings, training, or similar to fill those gaps.
 
+:information: You can copy the [Google Form Template here](https://drive.google.com/drive/u/2/folders/1O14fE_xjzfWA1qQVb50JPLga_H9EDtXf)
+
 ## Familiarity Assessment Survey
 
 - How do you assess yourself on DDD? (choose one)
   - ( ) Never used
   - ( ) I'm familiar with the concepts
-  - ( ) I'm familiar
+  - ( ) I used some of the concepts in the company
+  - ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
+
+- How do you assess yourself on the Strategic Design of DDD? (choose one)
+  - ( ) Never used
+  - ( ) I'm familiar with the concepts
+  - ( ) I used some of the concepts in the company
   - ( ) Practitioner
   - ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
 
-- How do you assess yourself on Strategic Design of DDD? (choose one)
+- How do you assess yourself on the Tactical Design of DDD? (choose one)
   - ( ) Never used
   - ( ) I'm familiar with the concepts
-  - ( ) I'm familiar
-  - ( ) Practitioner
-  - ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
-
-- How do you assess yourself on Tactical Design of DDD? (choose one)
-  - ( ) Never used
-  - ( ) I'm familiar with the concepts
-  - ( ) I'm familiar
+  - ( ) I used some of the concepts in the company
   - ( ) Practitioner
   - ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
 
@@ -43,21 +44,19 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 ### General DDD Concepts
 
-- Which is the most important thing about DDD in your opinion?
+- Which is the most important thing about DDD in your opinion? (Open text)
 
 - What is a Domain Model? (Open Text)
 
 - What is Domain Modelling? (Open Text)
 
-- In which scenario would you use DDD? (Open Text)
+- In which scenarios you used DDD? and which part of it? Why? DDD isn't all or nothing. It's more a grayscale (Open Text)
 
-- In which scenario you would NOT use DDD? (Open Text)
-
-- When do you know what you're doing DDD wrong? (Open Text)
+- In which scenario you used DDD but it turned out to be a bad idea? Why? (Open Text)
 
 - DDD helps you in (Multiple choices)
   - [ ] Manage Business Complexity
-  - [ ] Mange Technical Complexity
+  - [ ] Manage Technical Complexity
   - [ ] Define good Microservices
   - [ ] Have good Architecture because of Tactical Patterns
   - [ ] Other... (Open text)
@@ -69,33 +68,17 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 - Which Strategic Patterns are you familiar with? (Multiple choices)
   - [ ] Bounded Contexts
   - [ ] Ubiquitous Language
-  - [ ] Core Domain and Sub Domains
+  - [ ] Core Domain and SubDomains
   - [ ] Context Mapping
-  - [ ] Other... (Open text)
-
-- Which of those Patterns are used for the Problem Space? (Multiple choices)
-  - [ ] Bounded Contexts
-  - [ ] Ubiquitous Language
-  - [ ] Core Domain and Sub Domains
-  - [ ] Context Mapping
-  - [ ] Microservices
-  - [ ] Other... (Open text)
-
-- Which of those Patterns are used for the Solution Space? (Multiple choices)
-  - [ ] Bounded Contexts
-  - [ ] Ubiquitous Language
-  - [ ] Core Domain and Sub Domains
-  - [ ] Context Mapping
-  - [ ] Microservices
   - [ ] Other... (Open text)
 
 - How do you identify a Bounded Context? (Open text)
 
-- How do you know what's Core Domain? (Open text)
+- How do you know a Bounded Context is Core Domain? (Open text)
 
-- How do you know what's Supportive Subdomain? (Open text)
+- How do you know a Bounded Context is Supportive Subdomain? (Open text)
 
-- How do you know what's Generic Subdomain? (Open text)
+- How do you know a Bounded Context is a Generic Subdomain? (Open text)
 
 - How do you differentiate between them? (Open text)
 
@@ -116,11 +99,13 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 - What's the main goal of an Event Storming? (Open text)
 
-- How does Event Storming relate with Strategic Design and Tactical Design? (Open text)
+- How does Event Storming relate to Strategic Design and Tactical Design? (Open text)
 
 ### Tactical Design
 
 - Why Hexagonal Architecture is so popular within DDD? (Open text)
+
+- Is Layered Architecture compatible with DDD? (Open text)
 
 - Which patterns did you use? (Multiple choices)
   - [ ] Domain Service
@@ -133,7 +118,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
   - [ ] Event Sourcing
   - [ ] Other... (Open text)
 
-- When have you used a Domain Service?? (Open text)
+- When have you used a Domain Service? (Open text)
 
 - When have you used a Domain Event? (Open text)
 
@@ -150,7 +135,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 - When have you used Event Sourcing? (Open text)
 ### Your experience with DDD
 
-- Where did you find people struggle the most with DDD? (Open text)
+- Where did you struggle the most with DDD? (Open text)
 
 - Which is your biggest challenge when doing DDD? (Open text)
 
