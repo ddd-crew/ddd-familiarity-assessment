@@ -139,7 +139,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 - Which is your biggest challenge when doing DDD? (Open text)
 
-- What is the thing that you found that people is mistaken about DDD? (Open text)
+- What is the thing that you found that people are mistaken about DDD? (Open text)
 
 - How would you address a Big Ball of Mud? (Open text)
 
