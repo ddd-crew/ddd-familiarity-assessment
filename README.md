@@ -17,7 +17,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
   - ( ) Expert. Used in several scenarios, failed and learned from the mistakes, and being able to teach others.
 
 - How do you assess yourself on the Strategic Design of DDD? (choose one)
-  - ( ) Never used
+  - ( ) I don't know what do you mean
   - ( ) I'm familiar with the concepts
   - ( ) I used some of the concepts in the company
   - ( ) Practitioner
@@ -68,7 +68,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 - Which Strategic Patterns are you familiar with? (Multiple choices)
   - [ ] Bounded Contexts
   - [ ] Ubiquitous Language
-  - [ ] Core Domain and SubDomains
+  - [ ] Core Domain and Subdomains
   - [ ] Context Mapping
   - [ ] Other... (Open text)
 
@@ -120,7 +120,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 - When have you used a Domain Service? (Open text)
 
-- When have you used a Domain Event? (Open text)
+- What is a Domain Event, what is its role, main characteristics? (Open text)
 
 - When have you used an Aggregate? (Open text)
 
@@ -132,7 +132,7 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 - When have you used CQRS? (Open text)
 
-- When have you used Event Sourcing? (Open text)
+- In which scenarios do you use Event Sourcing? In which don't? (Open text)
 ### Your experience with DDD
 
 - Where did you struggle the most with DDD? (Open text)
