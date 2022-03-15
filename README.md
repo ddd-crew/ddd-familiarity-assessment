@@ -103,9 +103,9 @@ Instead, we expect to help organizations identify DDD knowledge gaps and use the
 
 ### Tactical Design
 
-- Why Hexagonal Architecture is so popular within DDD? (Open text)
-
-- Is Layered Architecture compatible with DDD? (Open text)
+- Would you apply Hexagonal Architecture and DDD together. Why (or why not)?  (Open text)
+- Would you apply Layered Architecture together. Why (or why not)? (Open text)
+- Would you rather use some other Architecture style? Why? (Open text) 
 
 - Which patterns did you use? (Multiple choices)
   - [ ] Domain Service
